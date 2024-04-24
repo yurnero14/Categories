@@ -1,5 +1,5 @@
 # Categories: Dare to play?
-## Muhammad Sarib Khan
+## By: Muhammad Sarib Khan
 
 ## React Client Application Routes
 
