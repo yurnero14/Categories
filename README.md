@@ -1,5 +1,5 @@
-# Exam #3: "Categories: Dare to play?"
-## Student: s298885 KHAN MUHAMMAD_SARIB
+# Categories: Dare to play?
+## Muhammad Sarib Khan
 
 ## React Client Application Routes
 
